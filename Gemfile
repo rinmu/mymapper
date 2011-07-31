@@ -12,7 +12,23 @@ gem 'sass-rails', "~> 3.1.0.rc"
 gem 'coffee-script'
 gem 'uglifier'
 
+gem 'haml'
+gem 'haml-rails'
+
 gem 'jquery-rails'
+
+gem 'mongoid'
+gem 'bson_ext'
+
+gem 'rspec'
+gem 'rspec-rails'
+gem 'mongoid-rspec'
+
+gem 'geocoder'
+gem 'barista'
+
+gem 'pg'
+gem 'therubyracer-heroku'
 
 # Use unicorn as the web server
 # gem 'unicorn'
